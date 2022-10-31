@@ -22,7 +22,7 @@ You should now have the package-lock.json and package.json files.
 
 The server is now running on localhost:4000.
 
-Navigate to localhost:4000 in your web browser. The webpage will display a form requiring you to input values for the current unit (K, C, F), current temperature (any number), new unit (K, C, F), then hit submit.
+Navigate to localhost:4000/converter.html in your web browser. The webpage will display a form requiring you to input values for the current unit (K, C, F), current temperature (any number), new unit (K, C, F), then hit submit.
 
 Open new terminal and run 'node client.js'
 
